@@ -1,0 +1,13 @@
+package ma.nemo.assignment;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class NiceStoreApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
