@@ -86,4 +86,7 @@ Run command:
 
 ## Info !:
 
-the system is ready for production !!
+the system is ready for production !!ù
+
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
